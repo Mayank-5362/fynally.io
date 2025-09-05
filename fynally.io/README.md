@@ -4,7 +4,6 @@
 
 Fynally is a comprehensive career development platform that guides students through their entire professional journey - from academic resources to landing their dream job. Built with modern React technologies and a component-driven architecture.
 
-![Fynally Homepage](./docs/screenshots/homepage.png)
 
 ## 🌟 Overview
 
@@ -14,35 +13,6 @@ Fynally bridges the gap between education and employment by providing a structur
 
 Each stage offers tailored resources, opportunities, and guidance to help users advance to the next level of their career journey.
 
-## 🚀 Live Demo
-
-🔗 **[View Live Demo](http://localhost:5173/)** (Development Server)
-
-## 📱 Screenshots
-
-### Homepage - Journey Cards
-![Journey Cards](./docs/screenshots/journey-cards.png)
-*Interactive journey visualization with hover effects*
-
-### Student Resources Page
-![Student Resources](./docs/screenshots/student-resources.png)
-*Academic support hub with study materials and scholarships*
-
-### Learning & Skills Page
-![Learning Page](./docs/screenshots/learning.png)
-*Skill development through courses and certifications*
-
-### Internships Page
-![Internships](./docs/screenshots/internships.png)
-*Internship discovery with advanced filtering*
-
-### Employment Page
-![Employment](./docs/screenshots/employment.png)
-*Full-time job opportunities and career resources*
-
-### About Page
-![About Page](./docs/screenshots/about.png)
-*Company mission, values, and team information*
 
 ## 🛠️ Technology Stack
 
@@ -64,7 +34,7 @@ Each stage offers tailored resources, opportunities, and guidance to help users 
 - **PostCSS** - CSS processing and optimization
 - **TypeScript Compiler** - Type checking and compilation
 
-## 🏗️ Project Structure
+## 🏗 Project Structure
 
 ```
 fynally.io/
@@ -324,14 +294,6 @@ npm run build
 
 The built files will be in the `dist/` directory.
 
-## 📝 Available Scripts
-
-| Command | Description |
-|---------|-------------|
-| `npm run dev` | Start development server |
-| `npm run build` | Build for production |
-| `npm run preview` | Preview production build |
-| `npm run lint` | Run ESLint |
 
 ## 🌟 Key Features
 
@@ -364,59 +326,3 @@ The built files will be in the `dist/` directory.
 - Team profiles
 - Impact statistics
 - Vision for the future
-
-## 🏗️ Architecture Highlights
-
-### Component Reusability
-- **95% code reuse** across similar features
-- **Consistent interfaces** with TypeScript
-- **Modular design** for easy maintenance
-- **Theme-based styling** for brand consistency
-
-### Performance Optimizations
-- **Lazy loading** with React.lazy()
-- **Code splitting** for optimal bundle size
-- **Optimized animations** with Framer Motion
-- **Responsive images** and assets
-
-### Developer Experience
-- **Hot module replacement** with Vite
-- **Type safety** with strict TypeScript
-- **ESLint integration** for code quality
-- **Component documentation** with JSDoc
-
-## 🤝 Contributing
-
-We welcome contributions! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-### Development Guidelines
-- Follow TypeScript best practices
-- Use the existing component library
-- Maintain consistent styling with Tailwind
-- Add appropriate animations with Framer Motion
-- Test across different screen sizes
-
-## 📞 Support
-
-For support, email [support@fynally.io](mailto:support@fynally.io) or join our community Discord.
-
-## 🔮 Roadmap
-
-- [ ] User authentication system
-- [ ] Real-time application tracking
-- [ ] AI-powered job matching
-- [ ] Mobile application
-- [ ] Integration with job boards
-- [ ] Advanced analytics dashboard
-
----
-
-**Built with ❤️ by the Fynally Team**
-
-*Empowering the next generation of professionals*
